@@ -497,17 +497,12 @@ input[type="submit"]:hover
 /* end contact */
 
 /* start footer */
-.footbar{
+
+footer {
   border-bottom: 10px solid #ffffff;
   color: #ffffff;
   text-align: center;
-  padding-bottom: 50px;
-}
-footer {
-  text-align: center;
-  padding: 3px;
-  background-color: DarkSalmon;
-  color: white;
+
 }/* end footer */
 
 /* start social icon */
