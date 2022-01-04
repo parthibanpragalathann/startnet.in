@@ -497,6 +497,12 @@ input[type="submit"]:hover
 /* end contact */
 
 /* start footer */
+#footbar{
+  border-bottom: 10px solid #ffffff;
+  color: #ffffff;
+  text-align: center;
+  padding-bottom: 50px;
+}
 footer
 {
   border-bottom: 10px solid #ffffff;
