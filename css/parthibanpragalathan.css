@@ -499,7 +499,7 @@ input[type="submit"]:hover
 /* start footer */
 
 .footerbar {
-  border-bottom: 10px solid #ffffff;
+  border-bottom: 10px  solid #ffffff;
   color: #ffffff;
   text-align: center;
   background : transparent;
