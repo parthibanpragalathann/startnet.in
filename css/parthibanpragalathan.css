@@ -497,9 +497,8 @@ input[type="submit"]:hover
 /* end contact */
 
 /* start footer */
-
 .footerbar {
-  border-bottom: 10px  solid #ffffff;
+  border-bottom: 10px solid #ffffff;
   color: #ffffff;
   text-align: center;
   background : transparent;
