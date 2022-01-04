@@ -502,7 +502,7 @@ input[type="submit"]:hover
   border-bottom: 10px solid #ffffff;
   color: #ffffff;
   text-align: center;
-
+  background : transparent;
 }/* end footer */
 
 /* start social icon */
