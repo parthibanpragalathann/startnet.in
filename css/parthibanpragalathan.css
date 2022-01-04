@@ -499,11 +499,10 @@ input[type="submit"]:hover
 /* start footer */
 footer
 {
-  background: #202020;
+
   border-bottom: 10px solid #ffffff;
   color: #ffffff;
   text-align: center;
-  padding-top: 100px;
   padding-bottom: 100px;
 }
 /* end footer */
